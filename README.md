@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<center>## hi i'm maxwell or mitchell</center>
 <!--
 **eff9ine/eff9ine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
